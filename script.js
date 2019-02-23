@@ -5,28 +5,28 @@ chosen quotes and sources from Parade website
 var quotes= [
 
       {
-        quote: '“Never be limited by other people\’s limited imaginations."',
+        quote: 'Never be limited by other people\’s limited imaginations.',
         source:"Dr. Mae Jemison, first African-American female astronaut"
       },
 
       {
-        quote: '“The cost of liberty is less than the price of repression."',
+        quote: 'The cost of liberty is less than the price of repression.',
         source: "W.E.B. Du Bois"
 
       },
 
       {
-        quote: '“Hate is too great a burden to bear. It injures the hater more than it injures the hated.”',
+        quote: 'Hate is too great a burden to bear. It injures the hater more than it injures the hated.',
         source: "Coretta Scott King"
       },
 
       {
-        quote: '“Whatever we believe about ourselves and our ability comes true for us.”',
+        quote: 'Whatever we believe about ourselves and our ability comes true for us.',
         source: "Susan L. Taylor, journalist"
       },
 
       {
-        quote: '“If there is no struggle, there is no progress.”',
+        quote: 'If there is no struggle, there is no progress.',
         source: "Frederick Douglass"
       }
 
